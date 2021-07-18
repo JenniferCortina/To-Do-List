@@ -1,0 +1,29 @@
+h1 {
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+body {
+    color:mediumpurple;
+    background-color:lightpink;
+}
+
+
+ul {
+    box-sizing: content-box;
+    font-size: 23px;
+}
+
+/* Style the "Add" button */
+.addButton {
+    padding: 5px;
+    width: 10%;
+    background:skyblue;
+    color:navy;
+    float:inherit;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.1s;
+    border-radius: 0;
+  }
